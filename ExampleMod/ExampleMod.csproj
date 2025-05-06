@@ -2,6 +2,7 @@
   <PropertyGroup>
     <AssemblyTitle>ExampleMod</AssemblyTitle>
     <RootNamespace>MonkeyLoader.ExampleMod</RootNamespace>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
 
   <PropertyGroup>

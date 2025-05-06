@@ -12,7 +12,7 @@
     <Version>1.0.0</Version>
     <Description>This is a template for a Resonite MonkeyLoader mod.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/ResoniteModdingGroup/MonkeyLoader.ModTemplate</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/AwesomeTornado/ResoniteMLModTemplate/</PackageProjectUrl>
     <PackageTags>mod; mods; monkeyloader; resonite</PackageTags>
     <TargetsForTfmSpecificContentInPackage>$(TargetsForTfmSpecificContentInPackage);AddExtraFilesToPackage</TargetsForTfmSpecificContentInPackage>
   </PropertyGroup>

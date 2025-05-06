@@ -10,10 +10,9 @@
     <PackageId>MonkeyLoader.ExampleMod.Resonite</PackageId>
     <Title>MonkeyLoader Resonite Mod Template</Title>
     <Authors>ExampleAuthor</Authors>
-    <Version>1.0.0</Version>
-    <Description>This is a template for a Resonite MonkeyLoader mod.</Description>
+    <Description>ExampleDescription</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/AwesomeTornado/ResoniteMLModTemplate/</PackageProjectUrl>
+    <PackageProjectUrl>ExampleURL</PackageProjectUrl>
     <PackageTags>mod; mods; monkeyloader; resonite</PackageTags>
     <TargetsForTfmSpecificContentInPackage>$(TargetsForTfmSpecificContentInPackage);AddExtraFilesToPackage</TargetsForTfmSpecificContentInPackage>
   </PropertyGroup>

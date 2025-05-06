@@ -18,6 +18,7 @@ namespace MonkeyLoader.ExampleMod
         //Find and replace all instances of "ExampleMod" with your mod name
         //Find and replace all instances of "ExampleAuthor" with your author
         //Find and replace all instances of "ExampleDescription" with your mod description
+        //Rename the Project file (.sln), project folder, the other project file (.csproj), and your source file (.cs)
         internal const string VERSION_CONSTANT = "1.0.0"; //Changing the version here updates it in all locations needed
     }
 

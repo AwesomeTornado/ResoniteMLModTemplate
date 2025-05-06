@@ -11,6 +11,15 @@ using System.Threading.Tasks;
 
 namespace MonkeyLoader.ExampleMod
 {
+
+    public class AssemblyInfo
+    {
+        //setup instructions:
+        //Find and replace all instances of "ExampleMod" with your mod name
+        //Find and replace all instances of "ExampleAuthor" with your author
+        internal const string VERSION_CONSTANT = "1.0.0"; //Changing the version here updates it in all locations needed
+    }
+
     [HarmonyPatchCategory(nameof(ExampleMod))]
     [HarmonyPatch(typeof(ProtoFluxTool), nameof(ProtoFluxTool.OnAttach))]
     internal class ExampleMod : ResoniteMonkey<ExampleMod>

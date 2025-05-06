@@ -14,11 +14,12 @@ namespace MonkeyLoader.ExampleMod
 
     public class AssemblyInfo
     {
-        //setup instructions:
+        //setup instructions (in no particular order):
         //Find and replace all instances of "ExampleMod" with your mod name
         //Find and replace all instances of "ExampleAuthor" with your author
         //Find and replace all instances of "ExampleDescription" with your mod description
-        //Rename the Project file (.sln), project folder, the other project file (.csproj), and your source file (.cs)
+        //Rename the Project file (.sln), project folder, the other project file (.csproj), and your source file (.cs
+        //Replace ExampleURL with your source repo url
         internal const string VERSION_CONSTANT = "1.0.0"; //Changing the version here updates it in all locations needed
     }
 

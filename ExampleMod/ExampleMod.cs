@@ -17,6 +17,7 @@ namespace MonkeyLoader.ExampleMod
         //setup instructions:
         //Find and replace all instances of "ExampleMod" with your mod name
         //Find and replace all instances of "ExampleAuthor" with your author
+        //Find and replace all instances of "ExampleDescription" with your mod description
         internal const string VERSION_CONSTANT = "1.0.0"; //Changing the version here updates it in all locations needed
     }
 
